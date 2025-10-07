@@ -1,0 +1,19 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.lst
+
+### Maven ###
+target/
+
+### IDEs ###
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+### Logs ###
+*.log
+logs/
+spring.log
